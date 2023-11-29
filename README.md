@@ -1,1 +1,1 @@
-# Loan-Approval-Prediction-Project
+# Student Academic Prediction Project
